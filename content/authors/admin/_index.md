@@ -1,28 +1,31 @@
 ---
+title: Raleigh M. Linville
+role: Postdoctoral researcher
+avatar_filename: img_5751.jpg
 organizations:
   - name: Stanford University
     url: ""
 superuser: true
 authors:
   - admin
-title: Raleigh M. Linville
-role: Postdoctoral researcher
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "Researcher interested in multidisciplinary approaches to understand and
+  treat brain diseases. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - tissue engineering
+  - blood-brain barrier
+  - microfluidics
+  - drug delivery
+  - induced pluripotent stem cells
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: raleigh.linville@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/LinvilleRaleigh
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=4UP8eV4AAAAJ&hl=en
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:raleigh.linville@gmail.com
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -40,7 +43,3 @@ user_groups:
 highlight_name: false
 email: raleigh.linville@gmail.com
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
