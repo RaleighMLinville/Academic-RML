@@ -5,8 +5,6 @@ avatar_filename: img_5751.jpg
 organizations:
   - name: Johns Hopkins University
     url: https://pages.jh.edu/searson/
-  - name: Boston University
-    url: http://people.bu.edu/jtien/
 superuser: true
 authors:
   - admin
