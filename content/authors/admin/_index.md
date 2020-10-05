@@ -6,7 +6,7 @@ superuser: true
 authors:
   - admin
 title: Raleigh M. Linville
-role: Professor of Artificial Intelligence
+role: Postdoctoral researcher
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -38,7 +38,7 @@ user_groups:
   - Researchers
   - Visitors
 highlight_name: false
-email: ""
+email: raleigh.linville@gmail.com
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
