@@ -9,7 +9,7 @@ title: Publications
 view: 4
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
+header: "Linville et al."
+  caption: "We show that"
   image: ""
 ---
