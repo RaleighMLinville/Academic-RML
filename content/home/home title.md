@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "navy"
+  color = "purple"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -64,10 +64,5 @@ The blood-brain barrier ... Check out our review on [benchmarking tissue-enginee
 
 To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
-
-## Understanding neurodegenerative disease
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-## Get inspired
-
+## Other resources
 
