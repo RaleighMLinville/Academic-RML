@@ -29,7 +29,7 @@ subtitle = ""
   # gradient_end = "ForestGreen"
   
   # Background image.
-  # image = "image.jpg"  # Name of image in `static/media/`.
+  image = "cancer vessel.jpg"  # Name of image in `static/media/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -54,15 +54,16 @@ subtitle = ""
 
 The blood-brain barrier ... Check out our review on [benchmarking tissue-engineered models of the BBB](https://link.springer.com/article/10.1186/s12987-018-0117-2) or my work to ...
 
-- 📚 View my recent publications
-- 🎉 Check out recent news
-- 🐦 Twitter: [@LinvilleRaleigh](https://twitter.com/LinvilleRaleigh) 
-- 🍎 Check out resources to teach out tissue engineering and the BBB
-- 🌳 Check out my research family tree
-
 ## Understanding neurodegenerative disease
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+Neurodegenerative disease (NDD)... review on [cerebrovascular plasticity during disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6681538/)
+
 
 ## Other resources
+
+- 📚 View my recent publications
+- 🐦 Twitter: [@LinvilleRaleigh](https://twitter.com/LinvilleRaleigh) 
+- 🎉 Check out recent news
+- 🍎 Check out resources to teach out tissue engineering and the BBB
+- 🌳 Check out my research family tree
 
